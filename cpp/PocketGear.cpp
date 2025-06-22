@@ -104,7 +104,7 @@ Metadata PocketGear::GetMetadata() {
         "口袋装备",         // Mod名称
         "雨鹜",            // 作者
         "1.0.0",          // 版本
-        20250622,         // 构建日期
+        20250517,         // 标准规范
         ModuleType::Game, // 类型
         { false }         // 额外标记
     };
